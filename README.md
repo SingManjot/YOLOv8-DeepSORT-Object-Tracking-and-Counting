@@ -47,3 +47,12 @@ python predict.py model=best.pt source="test.mp4" show=True
 ![App Screenshot](figure/fig2.png)
 * Screenshot of output video
 ![App Screenshot](figure/fig1.png)
+* Output of CSV file generated
+| Vehicle Type | Entering Count | Leaving Count | Total Count |
+|:------------:|:--------------:|:-------------:|:-----------:|
+|        2W    |          69    |         43    |         112 |
+|        3W    |             37 |          3    |         40  |
+|        4W    |             14 |               |          20 |
+|       LDV    |              2 |          2    |           4 |
+|       HDV    |              3 |          2    |           5 |
+|       BUS    |              3 |          0    |           3 |
