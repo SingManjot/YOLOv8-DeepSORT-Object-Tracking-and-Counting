@@ -2,7 +2,7 @@
 # YOLOv8-DeepSORT-Object-Tracking-and-Counting
 
 ## Google Collab Implementation
-
+The collab file demonstrates how to set up the environment, train your custom model, and run the script to get results. The script produces an output video that detects and tracks different types of objects and counts them. It also produces a CSV file and saves it along with the output video. The CSV file shows the total count of different objects entering and leaving. 
 ## Steps to run the code on your local machine
 * Clone the GitHub Repository
 ```bash
@@ -41,3 +41,7 @@ python predict.py model=yolov8l.pt source="test.mp4" show=True
 ```bash
 python predict.py model=best.pt source="test.mp4" show=True
 ```
+
+## Results
+* Screenshot of input video
+* Screenshot of output video
