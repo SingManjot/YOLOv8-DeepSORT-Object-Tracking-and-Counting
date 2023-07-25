@@ -44,4 +44,6 @@ python predict.py model=best.pt source="test.mp4" show=True
 
 ## Results
 * Screenshot of input video
+![App Screenshot](figure/fig2.png)
 * Screenshot of output video
+![App Screenshot](figure/fig1.png)
