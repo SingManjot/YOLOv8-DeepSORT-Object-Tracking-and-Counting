@@ -47,6 +47,8 @@ python predict.py model=best.pt source="test.mp4" show=True
 ![App Screenshot](figure/fig2.png)
 * Screenshot of output video
 ![App Screenshot](figure/fig1.png)
+* Output of the CSV file
+
 | Vehicle Type | Entering Count | Leaving Count | Total Count |
 |--------------|----------------|---------------|-------------|
 | 2W           | 69             | 43            | 112         |
