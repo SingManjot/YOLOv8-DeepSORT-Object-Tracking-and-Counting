@@ -32,3 +32,12 @@ https://drive.google.com/drive/folders/1aBYfUWkqYcJjrE4OiaDVFmfbugBMn_op?usp=sha
 ```bash
 https://drive.google.com/file/d/1SIqT3Y7vOQyJ6aiUYd-dpLjrgvYUV0LK/view?usp=drive_link
 ```
+
+* Download a Test Video and place the video in the subfolder specified above. To run the script, use the following command
+```bash
+python predict.py model=yolov8l.pt source="test.mp4" show=True
+```
+* If you are using the pre-trained model from the link provided above, use this command instead. Remember to place the Model in the subfolder specified above.
+```bash
+python predict.py model=best.pt source="test.mp4" show=True
+```
