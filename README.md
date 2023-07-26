@@ -4,7 +4,7 @@
 ## Google Colab Implementation
 The colab file demonstrates how to set up the environment, train your custom model, and run the script to get results. The script produces an output video that detects and tracks different types of objects and counts them. It also produces a CSV file and saves it along with the output video. The CSV file shows the total count of different objects entering and leaving. Just make sure to change the runtime type to GPU.
 
-[Open in Google Colab](https://colab.research.google.com/github/SingManjot/YOLOv8-DeepSORT-Object-Tracking-and-Counting/blob/yolov8.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SingManjot/YOLOv8-DeepSORT-Object-Tracking-and-Counting/blob/yolov8.ipynb)
 
 ## Steps to run the code on your local machine
 * Clone the GitHub Repository
