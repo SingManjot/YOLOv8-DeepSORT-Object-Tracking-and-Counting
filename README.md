@@ -44,9 +44,12 @@ The colab file demonstrates how to set up the environment, train your custom mod
 
 ## Results
 * Screenshot of input video
+
 ![App Screenshot](figure/fig2.png)
 * Screenshot of output video
+
 ![App Screenshot](figure/fig1.png)
+
 * Output of the CSV file
 
   | Vehicle Type | Entering Count | Leaving Count | Total Count |
